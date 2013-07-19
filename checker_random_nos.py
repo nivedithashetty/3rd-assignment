@@ -40,9 +40,9 @@ def computeShortestPath(dummy):
 
 
 
-c=[[0 for i in range(10)] for j in range(10)]
-q=[[0 for i in range(10)] for j in range(10)]
-p=[[0 for i in range(10)] for j in range(10)]
+c=[[0 for i in range(15)] for j in range(15)]
+q=[[0 for i in range(15)] for j in range(15)]
+p=[[0 for i in range(15)] for j in range(15)]
 
 n=int(raw_input("enter the size of the checker board"))
 numbers=[1,2,3,4,5,6,7,8,9]
