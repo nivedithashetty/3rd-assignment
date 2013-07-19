@@ -1,5 +1,5 @@
-c=[[0 for i in range(10)] for j in range(10)]
-b=[[0 for i in range(10)] for j in range(10)]
+c=[[0 for i in range(20)] for j in range(20)]
+b=[[0 for i in range(20)] for j in range(20)]
 
 
 def lcs(x,y):
