@@ -67,7 +67,7 @@ for i in range(1,n+1):
 print"entered board costs are as follows:"
 for i in range(1,n+1):
     for j in range(1,n+1):
-        print c[i][j]
+        print c[i][j],
     print " "
 print " "
     
